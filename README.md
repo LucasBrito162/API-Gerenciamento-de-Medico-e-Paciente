@@ -1,4 +1,4 @@
-# Sistema de Gerenciamento de Médicos e Pacientes
+# Sistema de Gerenciamento de Médicos e Pacientes.
 
 Este é um projeto de API para gerenciar médicos e pacientes em uma clínica médica. Ele fornece endpoints para cadastrar, listar, atualizar e excluir registros de médicos e pacientes em um banco de dados.
 
